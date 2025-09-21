@@ -38,3 +38,6 @@ flutter run -d chrome  # For web
 
 ## Backend
 Connects to [orbit-backend](https://github.com/srmanda-cs/orbit-backend)
+
+## Author
+[@srmanda-cs](https://github.com/srmanda-cs)
